@@ -3,11 +3,14 @@
 The images from 4K-Face is collected from the Internet. Following WIDER FACE event categories, keywords, such as travel, surgeons, and celebration, are used to retrieve more than 25,000 images from web search engine. In order to obtain large scale variance, we only keep the images with 4K resolution (3840×2160). Images without face are filtered. Finally, 5,102 images with more than 30,000 annotated boxes are acquired in total.
 
 ## Urls
+
 [OneDrive](https://megvii-my.sharepoint.cn/:f:/g/personal/wangjianfeng_megvii_com/EuqMTgmVHllGpWI2agiizNcBRsbUk1Wvjxf3KOEp7wsYJg?e=ekCy09)
+
 [BaiduDrive](https://pan.baidu.com/s/12rtKJEqqJcTJlOTDyQuY6A)
 
 ## Files
 
+```
 images.tar.00
 images.tar.01
 images.tar.02
@@ -27,6 +30,7 @@ images.tar.15
 images.tar.16
 README.md
 result.json
+```
 
 ## How to Use it
 
@@ -84,5 +88,18 @@ tar -xvf images.tar
             "width": 3840
         }
     ]
+}
+```
+
+## Citations
+
+Please consider citing this project in your publications if it helps your research. The following is a BibTeX reference.
+
+```
+@article{wang2018sface,
+  title={SFace: An Efficient Network for Face Detection in Large Scale Variations},
+  author={Wang, Jianfeng and Yuan, Ye and Yu, Gang and Sun, Jian},
+  journal={arXiv preprint arXiv:1804.06559},
+  year={2018}
 }
 ```
