@@ -2,7 +2,7 @@
 
 The images from 4K-Face dataset is collected from the Internet. Following WIDER FACE event categories, keywords, such as travel, surgeons, and celebration, are used to retrieve more than 25,000 images from web search engine. In order to obtain large scale variance, we only keep the images with 4K resolution (3840×2160). Images without face are filtered. Finally, 5,102 images with more than 30,000 annotated boxes are acquired in total.
 
-The 4K-Face dataset is contributed by Megvii Inc. in the following paper.
+The 4K-Face dataset is contributed by Megvii Research in the following paper.
 
 ```
 SFace: An Efficient Network for Face Detection in Large Scale Variations,
