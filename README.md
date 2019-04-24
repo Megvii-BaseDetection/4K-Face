@@ -113,3 +113,7 @@ Please consider citing this project in your publications if it helps your resear
   year={2018}
 }
 ```
+
+## License
+
+The 4K-Face dataset is released under the MIT license. See [LICENSE](LICENSE) for additional details.
